@@ -1,0 +1,451 @@
+Item_set,Sentence,Condition,Correct,Group
+1,Du und dein Bruder haben den Film schon gesehen.,23_3,gram,A
+1,Du und dein Bruder habt den Film schon gesehen.,23_2,gram,B
+1,Du und dein Bruder habe den Film schon gesehen.,23_1,ungram,C
+1,Dein Bruder und du haben den Film schon gesehen.,32_3,gram,D
+1,Dein Bruder und du habt den Film schon gesehen.,32_2,gram,E
+1,Dein Bruder und du habe den Film schon gesehen.,32_1,ungram,F
+2,Du und Leona werden das Spiel bestimmt gewinnen.,23_3,gram,F
+2,Du und Leona werdet das Spiel bestimmt gewinnen.,23_2,gram,A
+2,Du und Leona werde das Spiel bestimmt gewinnen.,23_1,ungram,B
+2,Leona und du werden das Spiel bestimmt gewinnen.,32_3,gram,C
+2,Leona und du werdet das Spiel bestimmt gewinnen.,32_2,gram,D
+2,Leona und du werde das Spiel bestimmt gewinnen.,32_1,ungram,E
+3,Du und der Hund sind zu schnell für mich.,23_3,gram,E
+3,Du und der Hund seid zu schnell für mich.,23_2,gram,F
+3,Du und der Hund bin zu schnell für mich.,23_1,ungram,A
+3,Der Hund und du sind zu schnell für mich.,32_3,gram,B
+3,Der Hund und du seid zu schnell für mich.,32_2,gram,C
+3,Der Hund und du bin zu schnell für mich.,32_1,ungram,D
+4,Du und meine Freundin haben viel gemeinsam.,23_3,gram,D
+4,Du und meine Freundin habt viel gemeinsam.,23_2,gram,E
+4,Du und meine Freundin habe viel gemeinsam.,23_1,ungram,F
+4,Meine Freundin und du haben viel gemeinsam.,32_3,gram,A
+4,Meine Freundin und du habt viel gemeinsam.,32_2,gram,B
+4,Meine Freundin und du habe viel gemeinsam.,32_1,ungram,C
+5,Du und Erik haben die Schlüssel vielleicht zuhause vergessen.,23_3,gram,C
+5,Du und Erik habt die Schlüssel vielleicht zuhause vergessen.,23_2,gram,D
+5,Du und Erik habe die Schlüssel vielleicht zuhause vergessen.,23_1,ungram,E
+5,Erik und du haben die Schlüssel vielleicht zuhause vergessen.,32_3,gram,F
+5,Erik und du habt die Schlüssel vielleicht zuhause vergessen.,32_2,gram,A
+5,Erik und du habe die Schlüssel vielleicht zuhause vergessen.,32_1,ungram,B
+6,Du und der Junge machen viel zu viel Lärm.,23_3,gram,B
+6,Du und der Junge macht viel zu viel Lärm.,23_2,gram,C
+6,Du und der Junge mache viel zu viel Lärm.,23_1,ungram,D
+6,Der Junge und du machen viel zu viel Lärm.,32_3,gram,E
+6,Der Junge und du macht viel zu viel Lärm.,32_2,gram,F
+6,Der Junge und du mache viel zu viel Lärm.,32_1,ungram,A
+7,Du und der andere Lehrer werden noch einige schwierige Fälle erleben.,23_3,gram,A
+7,Du und der andere Lehrer werdet noch einige schwierige Fälle erleben.,23_2,gram,B
+7,Du und der andere Lehrer werde noch einige schwierige Fälle erleben.,23_1,ungram,C
+7,Der andere Lehrer und du werden noch einige schwierige Fälle erleben.,32_3,gram,D
+7,Der andere Lehrer und du werdet noch einige schwierige Fälle erleben.,32_2,gram,E
+7,Der andere Lehrer und du werde noch einige schwierige Fälle erleben.,32_1,ungram,F
+8,Du und dein Mann kennen das sicherlich schon alles.,23_3,gram,F
+8,Du und dein Mann kennt das sicherlich schon alles.,23_2,gram,A
+8,Du und dein Mann kenne das sicherlich schon alles.,23_1,ungram,B
+8,Dein Mann und du kennen das sicherlich schon alles.,32_3,gram,C
+8,Dein Mann und du kennt das sicherlich schon alles.,32_2,gram,D
+8,Dein Mann und du kenne das sicherlich schon alles.,32_1,ungram,E
+9,Du und der Nachbar haben die Hecke nicht ordentlich geschnitten.,23_3,gram,E
+9,Du und der Nachbar habt die Hecke nicht ordentlich geschnitten.,23_2,gram,F
+9,Du und der Nachbar habe die Hecke nicht ordentlich geschnitten.,23_1,ungram,A
+9,Der Nachbar und du haben die Hecke nicht ordentlich geschnitten.,32_3,gram,B
+9,Der Nachbar und du habt die Hecke nicht ordentlich geschnitten.,32_2,gram,C
+9,Der Nachbar und du habe die Hecke nicht ordentlich geschnitten.,32_1,ungram,D
+10,Du und meine Kollegin haben genau die gleichen Probleme.,23_3,gram,D
+10,Du und meine Kollegin habt genau die gleichen Probleme.,23_2,gram,E
+10,Du und meine Kollegin habe genau die gleichen Probleme.,23_1,ungram,F
+10,Meine Kollegin und du haben genau die gleichen Probleme.,32_3,gram,A
+10,Meine Kollegin und du habt genau die gleichen Probleme.,32_2,gram,B
+10,Meine Kollegin und du habe genau die gleichen Probleme.,32_1,ungram,C
+11,Du und das Team haben gute Chancen auf den Pokal.,23_3,gram,C
+11,Du und das Team habt gute Chancen auf den Pokal.,23_2,gram,D
+11,Du und das Team habe gute Chancen auf den Pokal.,23_1,ungram,E
+11,Das Team und du haben gute Chancen auf den Pokal.,32_3,gram,F
+11,Das Team und du habt gute Chancen auf den Pokal.,32_2,gram,A
+11,Das Team und du habe gute Chancen auf den Pokal.,32_1,ungram,B
+12,Du und Maryam werden damit keine Schwierigkeiten haben.,23_3,gram,B
+12,Du und Maryam werdet damit keine Schwierigkeiten haben.,23_2,gram,C
+12,Du und Maryam werde damit keine Schwierigkeiten haben.,23_1,ungram,D
+12,Maryam und du werden damit keine Schwierigkeiten haben.,32_3,gram,E
+12,Maryam und du werdet damit keine Schwierigkeiten haben.,32_2,gram,F
+12,Maryam und du werde damit keine Schwierigkeiten haben.,32_1,ungram,A
+13,Du und deine Schwester haben immer gerne im Garten gespielt.,23_3,gram,A
+13,Du und deine Schwester habt immer gerne im Garten gespielt.,23_2,gram,B
+13,Du und deine Schwester habe immer gerne im Garten gespielt.,23_1,ungram,C
+13,Deine Schwester und du haben immer gerne im Garten gespielt.,32_3,gram,D
+13,Deine Schwester und du habt immer gerne im Garten gespielt.,32_2,gram,E
+13,Deine Schwester und du habe immer gerne im Garten gespielt.,32_1,ungram,F
+14,Du und die Polizistin haben die Angelegenheit gut geregelt.,23_3,gram,F
+14,Du und die Polizistin habt die Angelegenheit gut geregelt.,23_2,gram,A
+14,Du und die Polizistin habe die Angelegenheit gut geregelt.,23_1,ungram,B
+14,Die Polizistin und du haben die Angelegenheit gut geregelt.,32_3,gram,C
+14,Die Polizistin und du habt die Angelegenheit gut geregelt.,32_2,gram,D
+14,Die Polizistin und du habe die Angelegenheit gut geregelt.,32_1,ungram,E
+15,Du und Anna sind doch verrückt.,23_3,gram,E
+15,Du und Anna seid doch verrückt.,23_2,gram,F
+15,Du und Anna bin doch verrückt.,23_1,ungram,A
+15,Anna und du sind doch verrückt.,32_3,gram,B
+15,Anna und du seid doch verrückt.,32_2,gram,C
+15,Anna und du bin doch verrückt.,32_1,ungram,D
+16,Du und deine Vorgesetzte kommen wohl nicht so gut miteinander aus. ,23_3,gram,D
+16,Du und deine Vorgesetzte kommt wohl nicht so gut miteinander aus. ,23_2,gram,E
+16,Du und deine Vorgesetzte komme wohl nicht so gut miteinander aus. ,23_1,ungram,F
+16,Deine Vorgesetzte und du kommen wohl nicht so gut miteinander aus. ,32_3,gram,A
+16,Deine Vorgesetzte und du kommt wohl nicht so gut miteinander aus. ,32_2,gram,B
+16,Deine Vorgesetzte und du komme wohl nicht so gut miteinander aus. ,32_1,ungram,C
+17,Du und Mama verstehen das doch bestimmt.,23_3,gram,C
+17,Du und Mama versteht das doch bestimmt.,23_2,gram,D
+17,Du und Mama verstehe das doch bestimmt.,23_1,ungram,E
+17,Mama und du verstehen das doch bestimmt.,32_3,gram,F
+17,Mama und du versteht das doch bestimmt.,32_2,gram,A
+17,Mama und du verstehe das doch bestimmt.,32_1,ungram,B
+18,Du und Opa haben die Stadt noch nie gemocht.,23_3,gram,B
+18,Du und Opa habt die Stadt noch nie gemocht.,23_2,gram,C
+18,Du und Opa habe die Stadt noch nie gemocht.,23_1,ungram,D
+18,Opa und du haben die Stadt noch nie gemocht.,32_3,gram,E
+18,Opa und du habt die Stadt noch nie gemocht.,32_2,gram,F
+18,Opa und du habe die Stadt noch nie gemocht.,32_1,ungram,A
+19,Du und deine Frau haben die neue Veranda bestimmt schon einmal gesehen.,23_3,gram,A
+19,Du und deine Frau habt die neue Veranda bestimmt schon einmal gesehen.,23_2,gram,B
+19,Du und deine Frau habe die neue Veranda bestimmt schon einmal gesehen.,23_1,ungram,C
+19,Deine Frau und du haben die neue Veranda bestimmt schon einmal gesehen.,32_3,gram,D
+19,Deine Frau und du habt die neue Veranda bestimmt schon einmal gesehen.,32_2,gram,E
+19,Deine Frau und du habe die neue Veranda bestimmt schon einmal gesehen.,32_1,ungram,F
+20,Du und dein Anwalt haben den Prozess nur wegen Verfahrensfehler gewonnen. ,23_3,gram,F
+20,Du und dein Anwalt habt den Prozess nur wegen Verfahrensfehler gewonnen. ,23_2,gram,A
+20,Du und dein Anwalt habe den Prozess nur wegen Verfahrensfehler gewonnen. ,23_1,ungram,B
+20,Dein Anwalt und du haben den Prozess nur wegen Verfahrensfehler gewonnen. ,32_3,gram,C
+20,Dein Anwalt und du habt den Prozess nur wegen Verfahrensfehler gewonnen. ,32_2,gram,D
+20,Dein Anwalt und du habe den Prozess nur wegen Verfahrensfehler gewonnen. ,32_1,ungram,E
+21,Du und Tom werden damit definitiv in Schwierigkeiten geraten.,23_3,gram,E
+21,Du und Tom werdet damit definitiv in Schwierigkeiten geraten.,23_2,gram,F
+21,Du und Tom werde damit definitiv in Schwierigkeiten geraten.,23_1,ungram,A
+21,Tom und du werden damit definitiv in Schwierigkeiten geraten.,32_3,gram,B
+21,Tom und du werdet damit definitiv in Schwierigkeiten geraten.,32_2,gram,C
+21,Tom und du werde damit definitiv in Schwierigkeiten geraten.,32_1,ungram,D
+22,Du und der Anstreicher haben wirklich gute Arbeit geleistet.,23_3,gram,D
+22,Du und der Anstreicher habt wirklich gute Arbeit geleistet.,23_2,gram,E
+22,Du und der Anstreicher habe wirklich gute Arbeit geleistet.,23_1,ungram,F
+22,Der Anstreicher und du haben wirklich gute Arbeit geleistet.,32_3,gram,A
+22,Der Anstreicher und du habt wirklich gute Arbeit geleistet.,32_2,gram,B
+22,Der Anstreicher und du habe wirklich gute Arbeit geleistet.,32_1,ungram,C
+23,Du und Robin haben ungefähr die gleiche Größe.,23_3,gram,C
+23,Du und Robin habt ungefähr die gleiche Größe.,23_2,gram,D
+23,Du und Robin habe ungefähr die gleiche Größe.,23_1,ungram,E
+23,Robin und du haben ungefähr die gleiche Größe.,32_3,gram,F
+23,Robin und du habt ungefähr die gleiche Größe.,32_2,gram,A
+23,Robin und du habe ungefähr die gleiche Größe.,32_1,ungram,B
+24,Du und dein Verlobter werden hoffentlich eine schöne Hochzeit haben.,23_3,gram,B
+24,Du und dein Verlobter werdet hoffentlich eine schöne Hochzeit haben.,23_2,gram,C
+24,Du und dein Verlobter werde hoffentlich eine schöne Hochzeit haben.,23_1,ungram,D
+24,Dein Verlobter und du werden hoffentlich eine schöne Hochzeit haben.,32_3,gram,E
+24,Dein Verlobter und du werdet hoffentlich eine schöne Hochzeit haben.,32_2,gram,F
+24,Dein Verlobter und du werde hoffentlich eine schöne Hochzeit haben.,32_1,ungram,A
+25,Du und unser Mieter werden schon einen Kompromiss finden.,23_3,gram,A
+25,Du und unser Mieter werdet schon einen Kompromiss finden.,23_2,gram,B
+25,Du und unser Mieter werde schon einen Kompromiss finden.,23_1,ungram,C
+25,Unser Mieter und du werden schon einen Kompromiss finden.,32_3,gram,D
+25,Unser Mieter und du werdet schon einen Kompromiss finden.,32_2,gram,E
+25,Unser Mieter und du werde schon einen Kompromiss finden.,32_1,ungram,F
+26,Du und deine Therapeutin haben anscheinend die gleiche Meinung dazu.,23_3,gram,F
+26,Du und deine Therapeutin habt anscheinend die gleiche Meinung dazu.,23_2,gram,A
+26,Du und deine Therapeutin habe anscheinend die gleiche Meinung dazu.,23_1,ungram,B
+26,Deine Therapeutin und du haben anscheinend die gleiche Meinung dazu.,32_3,gram,C
+26,Deine Therapeutin und du habt anscheinend die gleiche Meinung dazu.,32_2,gram,D
+26,Deine Therapeutin und du habe anscheinend die gleiche Meinung dazu.,32_1,ungram,E
+27,Du und der Arzt haben mit der Diagnose recht gehabt.,23_3,gram,E
+27,Du und der Arzt habt mit der Diagnose recht gehabt.,23_2,gram,F
+27,Du und der Arzt habe mit der Diagnose recht gehabt.,23_1,ungram,A
+27,Der Arzt und du haben mit der Diagnose recht gehabt.,32_3,gram,B
+27,Der Arzt und du habt mit der Diagnose recht gehabt.,32_2,gram,C
+27,Der Arzt und du habe mit der Diagnose recht gehabt.,32_1,ungram,D
+28,Du und Kofi haben eine wirklich tolle Leistung gezeigt.,23_3,gram,D
+28,Du und Kofi habt eine wirklich tolle Leistung gezeigt.,23_2,gram,E
+28,Du und Kofi habe eine wirklich tolle Leistung gezeigt.,23_1,ungram,F
+28,Kofi und du haben eine wirklich tolle Leistung gezeigt.,32_3,gram,A
+28,Kofi und du habt eine wirklich tolle Leistung gezeigt.,32_2,gram,B
+28,Kofi und du habe eine wirklich tolle Leistung gezeigt.,32_1,ungram,C
+29,Du und Maria haben den Garten ja völlig verkommen lassen.,23_3,gram,C
+29,Du und Maria habt den Garten ja völlig verkommen lassen.,23_2,gram,D
+29,Du und Maria habe den Garten ja völlig verkommen lassen.,23_1,ungram,E
+29,Maria und du haben den Garten ja völlig verkommen lassen.,32_3,gram,F
+29,Maria und du habt den Garten ja völlig verkommen lassen.,32_2,gram,A
+29,Maria und du habe den Garten ja völlig verkommen lassen.,32_1,ungram,B
+30,Du und die andere Bewerberin werden bald von uns hören.,23_3,gram,B
+30,Du und die andere Bewerberin werdet bald von uns hören.,23_2,gram,C
+30,Du und die andere Bewerberin werde bald von uns hören.,23_1,ungram,D
+30,Die andere Bewerberin und du werden bald von uns hören.,32_3,gram,E
+30,Die andere Bewerberin und du werdet bald von uns hören.,32_2,gram,F
+30,Die andere Bewerberin und du werde bald von uns hören.,32_1,ungram,A
+101,Ich und meine Freundin haben uns schon vor zwei Jahren getrennt.,filler,gram,A
+101,Ich und meine Freundin haben uns schon vor zwei Jahren getrennt.,filler,gram,B
+101,Ich und meine Freundin haben uns schon vor zwei Jahren getrennt.,filler,gram,C
+101,Ich und meine Freundin haben uns schon vor zwei Jahren getrennt.,filler,gram,D
+101,Ich und meine Freundin haben uns schon vor zwei Jahren getrennt.,filler,gram,E
+101,Ich und meine Freundin haben uns schon vor zwei Jahren getrennt.,filler,gram,F
+102,Fast alle Gewerkschaften haben heutzutage nur noch wenige Mitglieder.,filler,gram,A
+102,Fast alle Gewerkschaften haben heutzutage nur noch wenige Mitglieder.,filler,gram,B
+102,Fast alle Gewerkschaften haben heutzutage nur noch wenige Mitglieder.,filler,gram,C
+102,Fast alle Gewerkschaften haben heutzutage nur noch wenige Mitglieder.,filler,gram,D
+102,Fast alle Gewerkschaften haben heutzutage nur noch wenige Mitglieder.,filler,gram,E
+102,Fast alle Gewerkschaften haben heutzutage nur noch wenige Mitglieder.,filler,gram,F
+103,Die Behörden haben weitere Raketenangriffe gemeldet.,filler,gram,A
+103,Die Behörden haben weitere Raketenangriffe gemeldet.,filler,gram,B
+103,Die Behörden haben weitere Raketenangriffe gemeldet.,filler,gram,C
+103,Die Behörden haben weitere Raketenangriffe gemeldet.,filler,gram,D
+103,Die Behörden haben weitere Raketenangriffe gemeldet.,filler,gram,E
+103,Die Behörden haben weitere Raketenangriffe gemeldet.,filler,gram,F
+104,Wir haben keine Zeit für lange Diskussionen.,filler,gram,A
+104,Wir haben keine Zeit für lange Diskussionen.,filler,gram,B
+104,Wir haben keine Zeit für lange Diskussionen.,filler,gram,C
+104,Wir haben keine Zeit für lange Diskussionen.,filler,gram,D
+104,Wir haben keine Zeit für lange Diskussionen.,filler,gram,E
+104,Wir haben keine Zeit für lange Diskussionen.,filler,gram,F
+105,Weder der Anwalt noch die Klägerin hätten damit gerechnet.,filler,gram,A
+105,Weder der Anwalt noch die Klägerin hätten damit gerechnet.,filler,gram,B
+105,Weder der Anwalt noch die Klägerin hätten damit gerechnet.,filler,gram,C
+105,Weder der Anwalt noch die Klägerin hätten damit gerechnet.,filler,gram,D
+105,Weder der Anwalt noch die Klägerin hätten damit gerechnet.,filler,gram,E
+105,Weder der Anwalt noch die Klägerin hätten damit gerechnet.,filler,gram,F
+106,Jungen und Mädchen werden getrennt untergebracht. ,filler,gram,A
+106,Jungen und Mädchen werden getrennt untergebracht. ,filler,gram,B
+106,Jungen und Mädchen werden getrennt untergebracht. ,filler,gram,C
+106,Jungen und Mädchen werden getrennt untergebracht. ,filler,gram,D
+106,Jungen und Mädchen werden getrennt untergebracht. ,filler,gram,E
+106,Jungen und Mädchen werden getrennt untergebracht. ,filler,gram,F
+107,Meine Eltern haben mir zum Geburtstag neue Socken geschenkt.,filler,gram,A
+107,Meine Eltern haben mir zum Geburtstag neue Socken geschenkt.,filler,gram,B
+107,Meine Eltern haben mir zum Geburtstag neue Socken geschenkt.,filler,gram,C
+107,Meine Eltern haben mir zum Geburtstag neue Socken geschenkt.,filler,gram,D
+107,Meine Eltern haben mir zum Geburtstag neue Socken geschenkt.,filler,gram,E
+107,Meine Eltern haben mir zum Geburtstag neue Socken geschenkt.,filler,gram,F
+108,Du solltest dir darüber wirklich Gedanken machen.,filler,gram,A
+108,Du solltest dir darüber wirklich Gedanken machen.,filler,gram,B
+108,Du solltest dir darüber wirklich Gedanken machen.,filler,gram,C
+108,Du solltest dir darüber wirklich Gedanken machen.,filler,gram,D
+108,Du solltest dir darüber wirklich Gedanken machen.,filler,gram,E
+108,Du solltest dir darüber wirklich Gedanken machen.,filler,gram,F
+109,Normalerweise schneit es im Januar.,filler,gram,A
+109,Normalerweise schneit es im Januar.,filler,gram,B
+109,Normalerweise schneit es im Januar.,filler,gram,C
+109,Normalerweise schneit es im Januar.,filler,gram,D
+109,Normalerweise schneit es im Januar.,filler,gram,E
+109,Normalerweise schneit es im Januar.,filler,gram,F
+110,Ich werde definitiv zur Party kommen.,filler,gram,A
+110,Ich werde definitiv zur Party kommen.,filler,gram,B
+110,Ich werde definitiv zur Party kommen.,filler,gram,C
+110,Ich werde definitiv zur Party kommen.,filler,gram,D
+110,Ich werde definitiv zur Party kommen.,filler,gram,E
+110,Ich werde definitiv zur Party kommen.,filler,gram,F
+111,Die Reparaturen sollten ungefähr drei Jahre dauern.,filler,gram,A
+111,Die Reparaturen sollten ungefähr drei Jahre dauern.,filler,gram,B
+111,Die Reparaturen sollten ungefähr drei Jahre dauern.,filler,gram,C
+111,Die Reparaturen sollten ungefähr drei Jahre dauern.,filler,gram,D
+111,Die Reparaturen sollten ungefähr drei Jahre dauern.,filler,gram,E
+111,Die Reparaturen sollten ungefähr drei Jahre dauern.,filler,gram,F
+112,Ich mag sowohl Katzen als auch Hunde.,filler,gram,A
+112,Ich mag sowohl Katzen als auch Hunde.,filler,gram,B
+112,Ich mag sowohl Katzen als auch Hunde.,filler,gram,C
+112,Ich mag sowohl Katzen als auch Hunde.,filler,gram,D
+112,Ich mag sowohl Katzen als auch Hunde.,filler,gram,E
+112,Ich mag sowohl Katzen als auch Hunde.,filler,gram,F
+113,Jeder Arbeitnehmer und jede Arbeitnehmerin hat Anspruch auf Elternzeit.,filler,gram,A
+113,Jeder Arbeitnehmer und jede Arbeitnehmerin hat Anspruch auf Elternzeit.,filler,gram,B
+113,Jeder Arbeitnehmer und jede Arbeitnehmerin hat Anspruch auf Elternzeit.,filler,gram,C
+113,Jeder Arbeitnehmer und jede Arbeitnehmerin hat Anspruch auf Elternzeit.,filler,gram,D
+113,Jeder Arbeitnehmer und jede Arbeitnehmerin hat Anspruch auf Elternzeit.,filler,gram,E
+113,Jeder Arbeitnehmer und jede Arbeitnehmerin hat Anspruch auf Elternzeit.,filler,gram,F
+114,Deine Freunde sind alle immer so unfreundlich.,filler,gram,A
+114,Deine Freunde sind alle immer so unfreundlich.,filler,gram,B
+114,Deine Freunde sind alle immer so unfreundlich.,filler,gram,C
+114,Deine Freunde sind alle immer so unfreundlich.,filler,gram,D
+114,Deine Freunde sind alle immer so unfreundlich.,filler,gram,E
+114,Deine Freunde sind alle immer so unfreundlich.,filler,gram,F
+115,Die Präsidentschaftswahlen finden nächsten Monat statt.,filler,gram,A
+115,Die Präsidentschaftswahlen finden nächsten Monat statt.,filler,gram,B
+115,Die Präsidentschaftswahlen finden nächsten Monat statt.,filler,gram,C
+115,Die Präsidentschaftswahlen finden nächsten Monat statt.,filler,gram,D
+115,Die Präsidentschaftswahlen finden nächsten Monat statt.,filler,gram,E
+115,Die Präsidentschaftswahlen finden nächsten Monat statt.,filler,gram,F
+116,Ein Buch würde sie am liebsten schreiben über die Geschichte Norditaliens.,filler,medium,A
+116,Ein Buch würde sie am liebsten schreiben über die Geschichte Norditaliens.,filler,medium,B
+116,Ein Buch würde sie am liebsten schreiben über die Geschichte Norditaliens.,filler,medium,C
+116,Ein Buch würde sie am liebsten schreiben über die Geschichte Norditaliens.,filler,medium,D
+116,Ein Buch würde sie am liebsten schreiben über die Geschichte Norditaliens.,filler,medium,E
+116,Ein Buch würde sie am liebsten schreiben über die Geschichte Norditaliens.,filler,medium,F
+117,Sowohl Eltern als auch Kinder profitieren durch gesunde Ernährung.,filler,medium,A
+117,Sowohl Eltern als auch Kinder profitieren durch gesunde Ernährung.,filler,medium,B
+117,Sowohl Eltern als auch Kinder profitieren durch gesunde Ernährung.,filler,medium,C
+117,Sowohl Eltern als auch Kinder profitieren durch gesunde Ernährung.,filler,medium,D
+117,Sowohl Eltern als auch Kinder profitieren durch gesunde Ernährung.,filler,medium,E
+117,Sowohl Eltern als auch Kinder profitieren durch gesunde Ernährung.,filler,medium,F
+118,So eine Kampagne gegen sich sollte ihm Sorgen machen.,filler,medium,A
+118,So eine Kampagne gegen sich sollte ihm Sorgen machen.,filler,medium,B
+118,So eine Kampagne gegen sich sollte ihm Sorgen machen.,filler,medium,C
+118,So eine Kampagne gegen sich sollte ihm Sorgen machen.,filler,medium,D
+118,So eine Kampagne gegen sich sollte ihm Sorgen machen.,filler,medium,E
+118,So eine Kampagne gegen sich sollte ihm Sorgen machen.,filler,medium,F
+119,Tiere und Pflanzen fühlen sich in der Sonne besonders wohlig.,filler,medium,A
+119,Tiere und Pflanzen fühlen sich in der Sonne besonders wohlig.,filler,medium,B
+119,Tiere und Pflanzen fühlen sich in der Sonne besonders wohlig.,filler,medium,C
+119,Tiere und Pflanzen fühlen sich in der Sonne besonders wohlig.,filler,medium,D
+119,Tiere und Pflanzen fühlen sich in der Sonne besonders wohlig.,filler,medium,E
+119,Tiere und Pflanzen fühlen sich in der Sonne besonders wohlig.,filler,medium,F
+120,Der Schiffsverkehr lag drei Tage gelähmt.,filler,medium,A
+120,Der Schiffsverkehr lag drei Tage gelähmt.,filler,medium,B
+120,Der Schiffsverkehr lag drei Tage gelähmt.,filler,medium,C
+120,Der Schiffsverkehr lag drei Tage gelähmt.,filler,medium,D
+120,Der Schiffsverkehr lag drei Tage gelähmt.,filler,medium,E
+120,Der Schiffsverkehr lag drei Tage gelähmt.,filler,medium,F
+121,Das Datum zu ändern sie immer vergaß.,filler,medium,A
+121,Das Datum zu ändern sie immer vergaß.,filler,medium,B
+121,Das Datum zu ändern sie immer vergaß.,filler,medium,C
+121,Das Datum zu ändern sie immer vergaß.,filler,medium,D
+121,Das Datum zu ändern sie immer vergaß.,filler,medium,E
+121,Das Datum zu ändern sie immer vergaß.,filler,medium,F
+122,Genauere Daten müssen noch ermittelt werden zur Verbreitung der Krankheit.,filler,medium,A
+122,Genauere Daten müssen noch ermittelt werden zur Verbreitung der Krankheit.,filler,medium,B
+122,Genauere Daten müssen noch ermittelt werden zur Verbreitung der Krankheit.,filler,medium,C
+122,Genauere Daten müssen noch ermittelt werden zur Verbreitung der Krankheit.,filler,medium,D
+122,Genauere Daten müssen noch ermittelt werden zur Verbreitung der Krankheit.,filler,medium,E
+122,Genauere Daten müssen noch ermittelt werden zur Verbreitung der Krankheit.,filler,medium,F
+123,Die Uhren werden umgestellt jedes Jahr im März und Oktober.,filler,medium,A
+123,Die Uhren werden umgestellt jedes Jahr im März und Oktober.,filler,medium,B
+123,Die Uhren werden umgestellt jedes Jahr im März und Oktober.,filler,medium,C
+123,Die Uhren werden umgestellt jedes Jahr im März und Oktober.,filler,medium,D
+123,Die Uhren werden umgestellt jedes Jahr im März und Oktober.,filler,medium,E
+123,Die Uhren werden umgestellt jedes Jahr im März und Oktober.,filler,medium,F
+124,Das Ferienhaus ist wirklich traumerfüllend.,filler,medium,A
+124,Das Ferienhaus ist wirklich traumerfüllend.,filler,medium,B
+124,Das Ferienhaus ist wirklich traumerfüllend.,filler,medium,C
+124,Das Ferienhaus ist wirklich traumerfüllend.,filler,medium,D
+124,Das Ferienhaus ist wirklich traumerfüllend.,filler,medium,E
+124,Das Ferienhaus ist wirklich traumerfüllend.,filler,medium,F
+125,Eine neue Matratze bräuchte ich und bessere Vorhänge.,filler,medium,A
+125,Eine neue Matratze bräuchte ich und bessere Vorhänge.,filler,medium,B
+125,Eine neue Matratze bräuchte ich und bessere Vorhänge.,filler,medium,C
+125,Eine neue Matratze bräuchte ich und bessere Vorhänge.,filler,medium,D
+125,Eine neue Matratze bräuchte ich und bessere Vorhänge.,filler,medium,E
+125,Eine neue Matratze bräuchte ich und bessere Vorhänge.,filler,medium,F
+126,Keine bessere Idee hatte er auch.,filler,medium,A
+126,Keine bessere Idee hatte er auch.,filler,medium,B
+126,Keine bessere Idee hatte er auch.,filler,medium,C
+126,Keine bessere Idee hatte er auch.,filler,medium,D
+126,Keine bessere Idee hatte er auch.,filler,medium,E
+126,Keine bessere Idee hatte er auch.,filler,medium,F
+127,Für Auto- und Radfahrer lohnt sich beide eine gute Versicherung.,filler,medium,A
+127,Für Auto- und Radfahrer lohnt sich beide eine gute Versicherung.,filler,medium,B
+127,Für Auto- und Radfahrer lohnt sich beide eine gute Versicherung.,filler,medium,C
+127,Für Auto- und Radfahrer lohnt sich beide eine gute Versicherung.,filler,medium,D
+127,Für Auto- und Radfahrer lohnt sich beide eine gute Versicherung.,filler,medium,E
+127,Für Auto- und Radfahrer lohnt sich beide eine gute Versicherung.,filler,medium,F
+128,Der Minister hat zur Wiederwahl von sich aufgerufen.,filler,medium,A
+128,Der Minister hat zur Wiederwahl von sich aufgerufen.,filler,medium,B
+128,Der Minister hat zur Wiederwahl von sich aufgerufen.,filler,medium,C
+128,Der Minister hat zur Wiederwahl von sich aufgerufen.,filler,medium,D
+128,Der Minister hat zur Wiederwahl von sich aufgerufen.,filler,medium,E
+128,Der Minister hat zur Wiederwahl von sich aufgerufen.,filler,medium,F
+129,Beschreibungen vom Tatort waren nicht unvollständig.,filler,medium,A
+129,Beschreibungen vom Tatort waren nicht unvollständig.,filler,medium,B
+129,Beschreibungen vom Tatort waren nicht unvollständig.,filler,medium,C
+129,Beschreibungen vom Tatort waren nicht unvollständig.,filler,medium,D
+129,Beschreibungen vom Tatort waren nicht unvollständig.,filler,medium,E
+129,Beschreibungen vom Tatort waren nicht unvollständig.,filler,medium,F
+130,Der Tisch und die Stühle ist beides aus Eiche.,filler,medium,A
+130,Der Tisch und die Stühle ist beides aus Eiche.,filler,medium,B
+130,Der Tisch und die Stühle ist beides aus Eiche.,filler,medium,C
+130,Der Tisch und die Stühle ist beides aus Eiche.,filler,medium,D
+130,Der Tisch und die Stühle ist beides aus Eiche.,filler,medium,E
+130,Der Tisch und die Stühle ist beides aus Eiche.,filler,medium,F
+131,Die Bäckerei hat diesen Sommer geschließen.,filler,ungram,A
+131,Die Bäckerei hat diesen Sommer geschließen.,filler,ungram,B
+131,Die Bäckerei hat diesen Sommer geschließen.,filler,ungram,C
+131,Die Bäckerei hat diesen Sommer geschließen.,filler,ungram,D
+131,Die Bäckerei hat diesen Sommer geschließen.,filler,ungram,E
+131,Die Bäckerei hat diesen Sommer geschließen.,filler,ungram,F
+132,Nicht jede Baum verlieren Blatt im Herbst.,filler,ungram,A
+132,Nicht jede Baum verlieren Blatt im Herbst.,filler,ungram,B
+132,Nicht jede Baum verlieren Blatt im Herbst.,filler,ungram,C
+132,Nicht jede Baum verlieren Blatt im Herbst.,filler,ungram,D
+132,Nicht jede Baum verlieren Blatt im Herbst.,filler,ungram,E
+132,Nicht jede Baum verlieren Blatt im Herbst.,filler,ungram,F
+133,Abendessen nach dem sie immer spazieren ging. ,filler,ungram,A
+133,Abendessen nach dem sie immer spazieren ging. ,filler,ungram,B
+133,Abendessen nach dem sie immer spazieren ging. ,filler,ungram,C
+133,Abendessen nach dem sie immer spazieren ging. ,filler,ungram,D
+133,Abendessen nach dem sie immer spazieren ging. ,filler,ungram,E
+133,Abendessen nach dem sie immer spazieren ging. ,filler,ungram,F
+134,Das nie vergessen ich dir werde.,filler,ungram,A
+134,Das nie vergessen ich dir werde.,filler,ungram,B
+134,Das nie vergessen ich dir werde.,filler,ungram,C
+134,Das nie vergessen ich dir werde.,filler,ungram,D
+134,Das nie vergessen ich dir werde.,filler,ungram,E
+134,Das nie vergessen ich dir werde.,filler,ungram,F
+135,Ich müsste wieder einmal die Gießen blumen.,filler,ungram,A
+135,Ich müsste wieder einmal die Gießen blumen.,filler,ungram,B
+135,Ich müsste wieder einmal die Gießen blumen.,filler,ungram,C
+135,Ich müsste wieder einmal die Gießen blumen.,filler,ungram,D
+135,Ich müsste wieder einmal die Gießen blumen.,filler,ungram,E
+135,Ich müsste wieder einmal die Gießen blumen.,filler,ungram,F
+136,Die EU die Internet regulieren will angeblich.,filler,ungram,A
+136,Die EU die Internet regulieren will angeblich.,filler,ungram,B
+136,Die EU die Internet regulieren will angeblich.,filler,ungram,C
+136,Die EU die Internet regulieren will angeblich.,filler,ungram,D
+136,Die EU die Internet regulieren will angeblich.,filler,ungram,E
+136,Die EU die Internet regulieren will angeblich.,filler,ungram,F
+137,Genannt wurden insbesondere die Leiterin und das Leiter. ,filler,ungram,A
+137,Genannt wurden insbesondere die Leiterin und das Leiter. ,filler,ungram,B
+137,Genannt wurden insbesondere die Leiterin und das Leiter. ,filler,ungram,C
+137,Genannt wurden insbesondere die Leiterin und das Leiter. ,filler,ungram,D
+137,Genannt wurden insbesondere die Leiterin und das Leiter. ,filler,ungram,E
+137,Genannt wurden insbesondere die Leiterin und das Leiter. ,filler,ungram,F
+138,Der Plan aufging leider nicht ganz. ,filler,ungram,A
+138,Der Plan aufging leider nicht ganz. ,filler,ungram,B
+138,Der Plan aufging leider nicht ganz. ,filler,ungram,C
+138,Der Plan aufging leider nicht ganz. ,filler,ungram,D
+138,Der Plan aufging leider nicht ganz. ,filler,ungram,E
+138,Der Plan aufging leider nicht ganz. ,filler,ungram,F
+139,Die Aktenkurse steigen infolgedessen der Inflation.,filler,ungram,A
+139,Die Aktenkurse steigen infolgedessen der Inflation.,filler,ungram,B
+139,Die Aktenkurse steigen infolgedessen der Inflation.,filler,ungram,C
+139,Die Aktenkurse steigen infolgedessen der Inflation.,filler,ungram,D
+139,Die Aktenkurse steigen infolgedessen der Inflation.,filler,ungram,E
+139,Die Aktenkurse steigen infolgedessen der Inflation.,filler,ungram,F
+140,Alle Teilnehmerinnen und Teilnehmer bekommt eine Urkunde ausgestellt.,filler,ungram,A
+140,Alle Teilnehmerinnen und Teilnehmer bekommt eine Urkunde ausgestellt.,filler,ungram,B
+140,Alle Teilnehmerinnen und Teilnehmer bekommt eine Urkunde ausgestellt.,filler,ungram,C
+140,Alle Teilnehmerinnen und Teilnehmer bekommt eine Urkunde ausgestellt.,filler,ungram,D
+140,Alle Teilnehmerinnen und Teilnehmer bekommt eine Urkunde ausgestellt.,filler,ungram,E
+140,Alle Teilnehmerinnen und Teilnehmer bekommt eine Urkunde ausgestellt.,filler,ungram,F
+141,Wir werden im Weihnachten nie nach Spanien wieder fahren.,filler,ungram,A
+141,Wir werden im Weihnachten nie nach Spanien wieder fahren.,filler,ungram,B
+141,Wir werden im Weihnachten nie nach Spanien wieder fahren.,filler,ungram,C
+141,Wir werden im Weihnachten nie nach Spanien wieder fahren.,filler,ungram,D
+141,Wir werden im Weihnachten nie nach Spanien wieder fahren.,filler,ungram,E
+141,Wir werden im Weihnachten nie nach Spanien wieder fahren.,filler,ungram,F
+142,Chemikalien haben Flüsse und andere Gewässer verseucht sollen.,filler,ungram,A
+142,Chemikalien haben Flüsse und andere Gewässer verseucht sollen.,filler,ungram,B
+142,Chemikalien haben Flüsse und andere Gewässer verseucht sollen.,filler,ungram,C
+142,Chemikalien haben Flüsse und andere Gewässer verseucht sollen.,filler,ungram,D
+142,Chemikalien haben Flüsse und andere Gewässer verseucht sollen.,filler,ungram,E
+142,Chemikalien haben Flüsse und andere Gewässer verseucht sollen.,filler,ungram,F
+143,Das Gemüse und die Kartoffeln ist in kulinarischer Perfektion.,filler,ungram,A
+143,Das Gemüse und die Kartoffeln ist in kulinarischer Perfektion.,filler,ungram,B
+143,Das Gemüse und die Kartoffeln ist in kulinarischer Perfektion.,filler,ungram,C
+143,Das Gemüse und die Kartoffeln ist in kulinarischer Perfektion.,filler,ungram,D
+143,Das Gemüse und die Kartoffeln ist in kulinarischer Perfektion.,filler,ungram,E
+143,Das Gemüse und die Kartoffeln ist in kulinarischer Perfektion.,filler,ungram,F
+144,"Gelesen, aber nicht gefallen, hatte ihm das Buch. ",filler,ungram,A
+144,"Gelesen, aber nicht gefallen, hatte ihm das Buch. ",filler,ungram,B
+144,"Gelesen, aber nicht gefallen, hatte ihm das Buch. ",filler,ungram,C
+144,"Gelesen, aber nicht gefallen, hatte ihm das Buch. ",filler,ungram,D
+144,"Gelesen, aber nicht gefallen, hatte ihm das Buch. ",filler,ungram,E
+144,"Gelesen, aber nicht gefallen, hatte ihm das Buch. ",filler,ungram,F
+145,Die UN rief zur Stärkung von Kleinbauern und das Bildungssystem auf.,filler,ungram,A
+145,Die UN rief zur Stärkung von Kleinbauern und das Bildungssystem auf.,filler,ungram,B
+145,Die UN rief zur Stärkung von Kleinbauern und das Bildungssystem auf.,filler,ungram,C
+145,Die UN rief zur Stärkung von Kleinbauern und das Bildungssystem auf.,filler,ungram,D
+145,Die UN rief zur Stärkung von Kleinbauern und das Bildungssystem auf.,filler,ungram,E
+145,Die UN rief zur Stärkung von Kleinbauern und das Bildungssystem auf.,filler,ungram,F
